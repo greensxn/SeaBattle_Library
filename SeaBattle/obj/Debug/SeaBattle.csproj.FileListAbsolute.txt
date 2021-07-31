@@ -1,0 +1,6 @@
+G:\gametest\SeaBattle_Library\SeaBattle\bin\Debug\SeaBattle.dll
+G:\gametest\SeaBattle_Library\SeaBattle\bin\Debug\SeaBattle.pdb
+G:\gametest\SeaBattle_Library\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+G:\gametest\SeaBattle_Library\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+G:\gametest\SeaBattle_Library\SeaBattle\obj\Debug\SeaBattle.dll
+G:\gametest\SeaBattle_Library\SeaBattle\obj\Debug\SeaBattle.pdb
